@@ -1,0 +1,9 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/allenhan/rep/stackoverflow20200616/target/scala-2.13/stackoverflow20200616_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CustomZipTest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allenhan/rep/stackoverflow20200616/target/scala-2.13/classes/CustomZipTest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CustomZipTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allenhan/rep/stackoverflow20200616/target/scala-2.13/classes/CustomZipTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CustomZipTest$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allenhan/rep/stackoverflow20200616/target/scala-2.13/classes/CustomZipTest$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
